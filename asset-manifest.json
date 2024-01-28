@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/agiledev/static/css/main.f96f07a4.css",
+    "main.js": "/agiledev/static/js/main.638b2791.js",
+    "static/js/787.3a913204.chunk.js": "/agiledev/static/js/787.3a913204.chunk.js",
+    "static/media/logo.jpeg": "/agiledev/static/media/logo.9e49a4de34e0a1be2368.jpeg",
+    "index.html": "/agiledev/index.html",
+    "main.f96f07a4.css.map": "/agiledev/static/css/main.f96f07a4.css.map",
+    "main.638b2791.js.map": "/agiledev/static/js/main.638b2791.js.map",
+    "787.3a913204.chunk.js.map": "/agiledev/static/js/787.3a913204.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.638b2791.js"
+  ]
+}
