@@ -34,7 +34,7 @@ function LoginPage() {
       );
 
       if (response.ok) {
-        console.log("Login successful!");
+        console.log("You've loggedin successful!");
         // Redirect to dashboard
         navigate("/dashboard");
       } else {
