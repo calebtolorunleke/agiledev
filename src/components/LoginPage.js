@@ -25,7 +25,7 @@ function LoginPage() {
       const response = await fetch(
         "https://ohunkohun.000webhostapp.com/csc407_project/api/login/",
         {
-          method: "GET",
+          method: "POST",
           headers: {
             "Content-Type": "application/x-www-form-urlencoded",
           },
